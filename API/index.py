@@ -1,5 +1,5 @@
 """
-Etsy Scraper Flask App
+Etsy Price Getter Flask App
 
 This Flask app exposes the Etsy price functionality as a simple web API and
 HTML frontend. It is designed so you can deploy it on Vercel (or any serverless

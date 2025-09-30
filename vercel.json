@@ -1,4 +1,4 @@
-# vercel.json configuration for deploying the Flask Etsy Scraper app to Vercel
+# vercel.json configuration for deploying the Flask Etsy price getting app to Vercel
 #
 # Steps:
 # 1. Move your Flask app into `api/index.py` (so entrypoint is api/index.py).

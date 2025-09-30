@@ -1,7 +1,7 @@
 """
 Etsy Scraper Flask App
 
-This Flask app exposes the Etsy scraping functionality as a simple web API and
+This Flask app exposes the Etsy price functionality as a simple web API and
 HTML frontend. It is designed so you can deploy it on Vercel (or any serverless
 host that supports Python/Flask). Instead of running from CLI, you can send an
 HTTP GET request with a keyword query parameter.
